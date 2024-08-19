@@ -22,4 +22,4 @@ This project is a personal portfolio web application built using Next.js, Tailwi
 
 #### Gif
 
-<img src=""/>
+<img src="myportfolio.gif"/>
