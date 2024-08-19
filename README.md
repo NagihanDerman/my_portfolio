@@ -15,7 +15,7 @@ This project is a personal portfolio web application built using Next.js, Tailwi
 - Next.js: Modern React-based framework for routing and server-side rendering.
 - Tailwind CSS: Customizable and fast styling.
 - Framer Motion: Animation library for page transitions and animated elements.
-- GraphCMS: Headless CMS for content management and data fetching.
+- Hygraph: Headless CMS for content management and data fetching.
 - GraphQL: Query language for retrieving data.
 - React-typical: For text effects and animations.
 - Next-themes: For dynamic theme switching.
